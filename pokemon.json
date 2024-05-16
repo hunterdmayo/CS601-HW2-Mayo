@@ -1,0 +1,54 @@
+{
+    "pokemon": [
+        {
+            "id": 4,
+            "name": "Charmander",
+            "category": "fire"
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "category": "water"
+        },
+        {
+            "id": 37,
+            "name": "Vulpix",
+            "category": "fire"
+        },
+        {
+            "id": 59,
+            "name": "Arcanine",
+            "category": "fire"
+        },
+        {
+            "id": 72,
+            "name": "Tentacool",
+            "category": "water"
+        },
+        {
+            "id": 118,
+            "name": "Goldeen",
+            "category": "water"
+        },
+        {
+            "id": 121,
+            "name": "Starmie",
+            "category": "water"
+        },
+        {
+            "id": 126,
+            "name": "Magmar",
+            "category": "fire"
+        },
+        {
+            "id": 130,
+            "name": "Gyarados",
+            "category": "water"
+        },
+        {
+            "id": 146,
+            "name": "Moltres",
+            "category": "fire"
+        }
+    ]
+}
